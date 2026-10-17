@@ -1,0 +1,34 @@
+# Bore diameter log for a turned bushing (one reading per part)
+# Lines starting with # are comments. Anything after the value is a note.
+@name Bore diameter
+@unit mm
+@target 10.00
+@lsl 9.95
+@usl 10.05
+@decimals 3
+@baseline 12
+
+10.012 lot A
+9.996 lot A
+10.004 lot A
+10.018 lot A
+9.989 lot A
+10.007 lot A
+10.001 lot A
+9.994 lot A
+10.011 lot A
+10.003 lot A
+9.998 lot A
+10.009 lot A
+10.006 lot B
+10.014 lot B
+10.019 lot B
+10.012 lot B
+10.022 lot B
+10.017 lot B
+10.024 lot B
+10.030 lot B
+10.026 lot B
+10.033 lot B
+10.028 lot B
+10.036 lot B
